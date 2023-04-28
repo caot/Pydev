@@ -9,3 +9,6 @@ To get started in PyDev see: http://pydev.org/manual_101_root.html
 For developing PyDev see: http://pydev.org/developers.html
 
 For contact, tracker, sponsorship, see: http://www.pydev.org/about.html
+
+# releases
+https://github.com/fabioz/Pydev/releases
